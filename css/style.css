@@ -1,0 +1,31 @@
+body{background-color:#fafafa;margin:0;padding:0;color: #20202c;text-align:justify;font-family:ubuntu;font-size:17px;}
+
+
+
+#page_container{margin-left:auto;margin-right:auto;margin-top:1em;max-width:800px;min-width:10px}
+
+#header_container{position:relative;height:.1px;max-width:500px;min-width:10px;margin-bottom:.1em}
+
+#header_content{position:center;left:center;top:center;max-width:800px;min-width:10px}
+
+#permalink a{text-decoration:none;color:#212121}a{text-decoration:none;color: #20202c;}a:hover{text-decoration:none;color:#0060ef}
+
+a.continuar-lendo{padding:2px 5px;margin-left: 4.3%;font-size: 12px;font-weight:700;text-transform:uppercase;}
+
+
+
+
+
+#page_copyright{clear:both;text-align:center;color: #20202c;font-weight:700;font-size:.7em;margin-bottom:2em}
+
+p {margin-right: 5%;margin-left: 5%;font-size: 17px}
+
+
+h1 {text-align: left;margin-right: 5%;margin-left: 5%;font-weight: 700;font-size: 17px}
+
+h2 {text-align: left;margin-right: 5%;margin-left: 5%;font-weight: 700;font-size: 17px}
+
+#capa,#capa>img{width:100%}video{width:100%;height:auto}
+
+
+
